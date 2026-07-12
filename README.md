@@ -2,6 +2,11 @@
 <div align="center">\n  <img src="URL_DO_SEU_BANNER_AQUI" width="100%">\n</div>
 
 ![Typing SVG](https://herokuapp.com)
+![Kali Linux](https://shields.io)
+![Burp Suite](https://shields.io)
+![Wireshark](https://shields.io)
+
+
 
 <!--
 **maurock-123/maurock-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
