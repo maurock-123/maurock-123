@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<div align="center">\n  <img src="URL_DO_SEU_BANNER_AQUI" width="100%">\n</div>
 <!--
 **maurock-123/maurock-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
